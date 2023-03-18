@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Full stack E-commerce app](https://github.com/Utkarsh4517/Flutter_E-commerce)
 
-- 🌱 I’m currently learning **JavaScript, NodeJs, Mongodb.**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👯 I’m looking to collaborate on **anything related with flutter**
 
