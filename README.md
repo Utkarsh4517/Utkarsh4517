@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Shrivastava</h1>
-<h3 align="center">Passionate Flutter Developer and a Part time Game Developer</h3>
+<h3 align="center">Passionate Flutter Developer and a Part time Game Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh4517" alt="utkarsh4517" /></a> </p>
 
