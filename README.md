@@ -8,20 +8,24 @@ Devhabit - Snapchat but for developers [under development] https://github.com/Ut
 <br>Some of my projects are -><br>
 
 <br>1. Brahma.ai - https://github.com/Utkarsh4517/Brahma-ChatGPT-Dall-E-Flutter<br>
+
 ChatGPT + Dalle-AI integration using tts and stt.
-![image](https://github.com/Utkarsh4517/Utkarsh4517/assets/71646773/c92f1cab-34e6-4e42-bb2b-67303f8c6de5)
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/71646773/256137127-c92f1cab-34e6-4e42-bb2b-67303f8c6de5.png" width="300px" />
+<br>
 
 <br>
 
 2. Fosscu App - https://github.com/Utkarsh4517/fosscu-app<br>
-![8b8ec6c0-d722-41da-a027-15a6c0881a13](https://github.com/Utkarsh4517/fosscu-app/assets/71646773/8fcf2823-684e-402e-9d3b-6c29679e89b2)
+<img src="https://user-images.githubusercontent.com/71646773/256130343-8fcf2823-684e-402e-9d3b-6c29679e89b2.jpg" width="300px" />
 
 <br>
 
 3. Flutter iot - https://github.com/Utkarsh4517/iot-sql<br>
 using mysql and wifi module + temp and humidity sensor.
 
-![image](https://github.com/Utkarsh4517/Utkarsh4517/assets/71646773/18a840c2-f501-44c8-b569-d5143611195c)
+<img src="https://user-images.githubusercontent.com/71646773/256137372-18a840c2-f501-44c8-b569-d5143611195c.png" width="300px" />
 
 
 
